@@ -425,15 +425,21 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":500,
-                 "id":22,
+                 "height":500.666666666667,
+                 "id":25,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"meetGeneral"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":436,
-                 "x":810,
-                 "y":107
+                 "width":436.666666666667,
+                 "x":810.666666666667,
+                 "y":106.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -495,7 +501,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
