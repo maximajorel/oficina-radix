@@ -427,12 +427,17 @@
                 {
                  "height":500.666666666667,
                  "id":25,
-                 "name":"",
+                 "name":"JItsi Meet",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meetGeneral"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
