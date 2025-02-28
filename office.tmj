@@ -636,6 +636,80 @@
                  "width":224,
                  "x":543.5,
                  "y":96
+                }, 
+                {
+                 "height":158.916666666667,
+                 "id":32,
+                 "name":"JitsiSUM1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"SUM1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Haga clic o aprete espacio para acceder"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0.2
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":159.083333333333,
+                 "x":1280.25,
+                 "y":95.75
+                }, 
+                {
+                 "height":160,
+                 "id":33,
+                 "name":"JitsiSUM2",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"SUM2"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Haga clic o aprete espacio para acceder"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0.5
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":159.333333333333,
+                 "x":1472,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -697,7 +771,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":32,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
