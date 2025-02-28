@@ -445,6 +445,43 @@
                  "width":436.666666666667,
                  "x":810.666666666667,
                  "y":106.666666666667
+                }, 
+                {
+                 "height":178,
+                 "id":26,
+                 "name":"JitsiSocio1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"Socio1"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"Haca clic en espacio para hablar con \"Socio 1\""
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":0.5
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":209,
+                 "x":42,
+                 "y":107
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -506,7 +543,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
