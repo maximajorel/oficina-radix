@@ -643,6 +643,11 @@
                  "name":"JitsiSUM1",
                  "properties":[
                         {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"SUM1"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -680,6 +685,11 @@
                  "name":"JitsiSUM2",
                  "properties":[
                         {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"SUM2"
+                        }, 
+                        {
                          "name":"focusable",
                          "type":"bool",
                          "value":true
@@ -710,6 +720,23 @@
                  "width":159.333333333333,
                  "x":1472,
                  "y":96
+                }, 
+                {
+                 "height":254.666666666667,
+                 "id":35,
+                 "name":"Cafeter\u00eda",
+                 "properties":[
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Cafeter\u00eda"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":221.333333333333,
+                 "x":33.3333333333333,
+                 "y":736
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -771,7 +798,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":35,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
