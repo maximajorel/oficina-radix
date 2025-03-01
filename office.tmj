@@ -532,7 +532,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Haca clic en espacio para hablar con \"Socio 1\""
+                         "value":"Haca clic, o aprete espacio para hablar con \"Socio 1\""
                         }, 
                         {
                          "name":"zoom_margin",
@@ -569,7 +569,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Haca clic en espacio para hablar con \"Socio 2\""
+                         "value":"Haca clic, o aprete espacio para hablar con \"Socio 2\""
                         }, 
                         {
                          "name":"zoom_margin",
@@ -582,23 +582,6 @@
                  "width":226,
                  "x":288.5,
                  "y":96.5
-                }, 
-                {
-                 "height":224,
-                 "id":28,
-                 "name":"SlientZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":509.5,
-                 "x":224.5,
-                 "y":384
                 }, 
                 {
                  "height":193,
@@ -623,7 +606,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Haca clic en espacio para hablar con \"Socio 3\""
+                         "value":"Haca clic, o aprete espacio para hablar con \"Socio 3\""
                         }, 
                         {
                          "name":"zoom_margin",
@@ -636,6 +619,23 @@
                  "width":224,
                  "x":543.5,
                  "y":96
+                }, 
+                {
+                 "height":224,
+                 "id":28,
+                 "name":"SlientZone",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":509.5,
+                 "x":224.5,
+                 "y":384
                 }, 
                 {
                  "height":158.916666666667,
