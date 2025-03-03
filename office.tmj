@@ -684,7 +684,7 @@
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
+                 "visible":true,
                  "width":159.333333333333,
                  "x":1472,
                  "y":96
@@ -744,7 +744,7 @@
                  "name":"Devs",
                  "properties":[
                         {
-                         "name":"jistsiRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
                          "value":"DevsRoom"
                         }, 
