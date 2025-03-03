@@ -746,7 +746,7 @@
                         {
                          "name":"jistsiRoom",
                          "type":"string",
-                         "value":"Devs-Room"
+                         "value":"DevsRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
