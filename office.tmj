@@ -766,14 +766,14 @@
                  "y":800.666666666667
                 }, 
                 {
-                 "height":62.6666666666667,
+                 "height":126,
                  "id":41,
                  "name":"Pool Game Area",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/1001juegos.com\/juego\/8-ball-pool-billiards-multiplayer"
+                         "value":"https:\/\/games.crazygames.com\/es_ES\/8-ball-pool-billiards-multiplayer\/index.html"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -783,9 +783,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":479.333333333333,
-                 "x":96.6666666666667,
-                 "y":577.333333333333
+                 "width":539.333333333333,
+                 "x":66.6666666666667,
+                 "y":546.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
