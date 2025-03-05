@@ -774,6 +774,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/1001juegos.com\/juego\/8-ball-pool-billiards-multiplayer"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"area",
