@@ -451,16 +451,6 @@
                          "value":"meetGeneral"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Haga clic o aprete espacio para acceder a la Reuni\u00f3n"
-                        }, 
-                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":0.6
@@ -794,6 +784,98 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":80,
+         "name":"juegos",
+         "objects":[
+                {
+                 "height":96.125,
+                 "id":43,
+                 "name":"MetalSlugX",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.gameslol.net\/data\/emul\/retro\/load.php?sys=snk-neo-geo&r=mslugx.zip"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Metal Slug X"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":63.5,
+                 "x":32.25,
+                 "y":224
+                }, 
+                {
+                 "height":95.3333333333333,
+                 "id":44,
+                 "name":"Sunset Bike Racing",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/games.crazygames.com\/es_ES\/sunset-bike-racing\/index.html"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Sunset Bike Racing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":128,
+                 "y":224
+                }, 
+                {
+                 "height":94.6666666666667,
+                 "id":45,
+                 "name":"Mini Golf Club",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/games.crazygames.com\/es_ES\/mini-golf-club\/index.html"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Mini Golf Club"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":224.666666666667,
+                 "y":225.333333333333
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":74,
          "layers":[
                 {
@@ -846,8 +928,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":80,
- "nextobjectid":43,
+ "nextlayerid":81,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "properties":[
         {
