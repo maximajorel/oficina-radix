@@ -868,6 +868,33 @@
                  "width":64,
                  "x":224.666666666667,
                  "y":225.333333333333
+                }, 
+                {
+                 "height":95.25,
+                 "id":46,
+                 "name":"Shooter FPS",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/games.crazygames.com\/es_ES\/shellshockersio\/index.html"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Shell Shockers FPS"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":384,
+                 "y":224.25
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -929,7 +956,7 @@
          "y":0
         }],
  "nextlayerid":81,
- "nextobjectid":46,
+ "nextobjectid":47,
  "orientation":"orthogonal",
  "properties":[
         {
